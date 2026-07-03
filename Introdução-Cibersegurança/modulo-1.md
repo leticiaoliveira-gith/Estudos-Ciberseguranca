@@ -18,7 +18,8 @@ O CuboO cubo de McCumber: é uma estrutura criada para ajudar as empresas a esta
 1ª Dimensão: Os Princípios Fundamentais para Proteger as Informações
 Aqui está a representação digital do primeiro cubo, focada nos pilares da segurança:
 
-[Diagrama 1: Cubo de McCumber - 1ª Dimensão]
+![Cubo de McCumber - 1ª Dimensão](imagens.organização/cubo%20%201.png)
+
 Um diagrama 3x3x3 do Cubo de McCumber, onde uma fatia vertical está em destaque. As linhas conectam essa fatia aos seguintes textos:
 
 A confidencialidade: Regras que evitam a divulgação de dados, criptografia, prova de identidade e 2 fatores.
@@ -30,7 +31,8 @@ Disponibilidade: Significa que os usuários autorizados podem acessar sistemas e
 2ª Dimensão: A Proteção da Informação em cada estado
 Abaixo, a visualização do segundo cubo, focada em onde os dados estão:
 
-[Diagrama 2: Cubo de McCumber - 2ª Dimensão]
+![Cubo de McCumber - 1ª Dimensão](imagens.organização/cubo%202.png)
+
 O mesmo diagrama 3x3x3, agora com uma fatia horizontal diferente em destaque. As linhas conectam essa fatia aos seguintes textos:
 
 O processo: Refere-se aos dados que estão sendo usados para executar uma operação.
@@ -42,7 +44,8 @@ A transmissão: Refere-se aos dados que trafegam entre sistemas de informações
 3ª Dimensão: As Medidas de Segurança usadas para proteger os dados
 Por fim, a representação do terceiro cubo, focada em como aplicamos a segurança:
 
-[Diagrama 3: Cubo de McCumber - 3ª Dimensão]
+![Cubo de McCumber - 1ª Dimensão](imagens.organização/cubo%203.png)
+
 O diagrama 3x3x3, com a terceira fatia horizontal em destaque. As linhas conectam essa fatia aos seguintes textos:
 
 Conscientização, Treinamento e Educação: São medidas adotadas para garantir que os usuários tenham conhecimento de segurança.
