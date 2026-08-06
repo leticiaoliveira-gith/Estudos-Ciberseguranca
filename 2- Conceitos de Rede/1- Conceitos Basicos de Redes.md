@@ -79,5 +79,4 @@ Significa **"espinha dorsal"**. Trata-se de uma rede de altíssima velocidade, c
 ### Exemplo de Topologia de Conexão ISP
 
 ```
-[ PC ] ---------------------> [ Modem ] -------------------                                                            +---> [ Provedor de Serviços de Internet (ISP) ]
-[ PCs (LAN) ] -> [ Roteador Integrado ] -> [ Modem ] ------/
+![Topologia da conexão ISP](imagem.redes/isp.jpg)
