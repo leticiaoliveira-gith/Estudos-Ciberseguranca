@@ -18,7 +18,7 @@ O CuboO cubo de McCumber: é uma estrutura criada para ajudar as empresas a esta
 
 1ª Dimensão: Os Princípios Fundamentais para Proteger as Informações
 
-![Cubo de McCumber - 1ª Dimensão](imagens.organização/cubo%20%201.png)
+![Cubo de McCumber - 1ª Dimensão](../.assets/cubo%20%201.png)
 
 
 **A confidencialidade:** Regras que evitam a divulgação de dados, criptografia, prova de identidade e 2 fatores.
@@ -29,7 +29,7 @@ O CuboO cubo de McCumber: é uma estrutura criada para ajudar as empresas a esta
 
 2ª Dimensão: A Proteção da Informação em cada estado
 
-![Cubo de McCumber - 1ª Dimensão](imagens.organização/cubo%202.png)
+![Cubo de McCumber - 1ª Dimensão](../.assets/cubo%202.png)
 
 **O processo:** Refere-se aos dados que estão sendo usados para executar uma operação.
 
@@ -39,7 +39,7 @@ O CuboO cubo de McCumber: é uma estrutura criada para ajudar as empresas a esta
 
 3ª Dimensão: As Medidas de Segurança usadas para proteger os dados
 
-![Cubo de McCumber - 1ª Dimensão](imagens.organização/cubo%203.png)
+![Cubo de McCumber - 1ª Dimensão](../.assets/cubo%203.png)
 
 
 **Conscientização, Treinamento e Educação:** São medidas adotadas para garantir que os usuários tenham conhecimento de segurança.
