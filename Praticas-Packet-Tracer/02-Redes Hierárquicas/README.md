@@ -39,6 +39,22 @@ A infraestrutura foi segmentada em três níveis funcionais para assegurar alta 
 ### 1. Montagem e Alimentação Física
 1. Disposição dos elementos no espaço de trabalho respeitando a hierarquia visual das três camadas.
 2. Inserção do módulo de fonte de alimentação **AC Power Supply** no slot traseiro do switch Cisco 3650 (*Aba Physical*).
+
+https://github.com/user-attachments/assets/60088236-f763-4474-bb25-beffc4a1aeae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 3. Conexão de todo o cabeamento direto (Copper Straight-Through) respeitando as portas especificadas.
 
 ### 2. Endereçamento IP dos Hosts
