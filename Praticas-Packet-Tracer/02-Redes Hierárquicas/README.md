@@ -14,7 +14,6 @@ Este repositório contém a documentação técnica e a simulação de uma arqui
   <img src="../../.assets/Rede camadas.png" alt="Simulação e Teste de Ping ICMP" width="850"/ >
 </div>
 
-<img src="../../.assets/Rede camadas.png" alt="Simulação e Teste de Ping ICMP" width="850"/>
 A infraestrutura foi segmentada em três níveis funcionais para assegurar alta disponibilidade, escalabilidade e facilidade de manutenção:
 
 * **Camada de Núcleo (Core Layer):** Roteador Cisco ISR 4331 (`Roteador-Core-4331`), responsável pelo roteamento centralizado.
@@ -77,7 +76,12 @@ A comunicação entre os hosts e o roteador central foi testada utilizando pacot
 3. **Resultado:** O pacote transitou com sucesso pelas 3 camadas (`Acesso` ➔ `Distribuição` ➔ `Núcleo`) e retornou ao host de origem, registrando o status **Successful**.
 
 <div align="center">
+
   https://github.com/user-attachments/assets/60088236-f763-4474-bb25-beffc4a1aeae
+
+
+
+
 
 
 
